@@ -1,6 +1,5 @@
 # Important reference
 
-## Understanding Audio data, Fourier Transform, FFT and Spectrogram features for a Speech Recognition System
 https://towardsdatascience.com/understanding-audio-data-fourier-transform-fft-spectrogram-and-speech-recognition-a4072d228520
 
 ## extract audio from videos
