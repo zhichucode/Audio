@@ -12,3 +12,5 @@ https://fairyonice.github.io/implement-the-spectrogram-from-scratch-in-python.ht
 https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classification-step-by-step-cebc936bbe5
 
 ## [Reading input sound signal using Python](https://stackoverflow.com/questions/35344649/reading-input-sound-signal-using-python)
+
+## [Playing and Recording Sound in Python(real python)](https://realpython.com/playing-and-recording-sound-python/) 
