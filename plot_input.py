@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 """Plot the live microphone signal(s) with matplotlib.
-
-Matplotlib and NumPy have to be installed.
-
 """
 import argparse
 import queue
@@ -70,11 +67,10 @@ def audio_callback(indata, frames, time, status):
 
 def update_plot(frame):
     """This is called by matplotlib for each plot update.
-
     Typically, audio callbacks happen more frequently than plot updates,
     therefore the queue tends to contain multiple blocks of audio data.
-
     """
+
     global plotdata
     while True:
         try:
