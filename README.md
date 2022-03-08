@@ -21,8 +21,12 @@ https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classificat
 
 ## [dataset search in google](https://datasetsearch.research.google.com/search?query=industry%20audio&src=0)
 
-## [MIMII Dataset: Sound Dataset for Malfunctioning Industrial Machine Investigation and Inspection](MIMII Dataset: Sound Dataset for Malfunctioning Industrial Machine Investigation and Inspection)
+## [MIMII Dataset: Sound Dataset for Malfunctioning Industrial Machine Investigation and Inspection](https://zenodo.org/record/3384388)
 
 ## [Audio Data Analysis Using Deep Learning with Python (Part 1)](https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html)
+
+# Some Useful Google Colab
+(Dog vs. Cat in folders)[https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/image_classification_part1.ipynb#scrollTo=H4XHh2xSfgie]
+
 
 
