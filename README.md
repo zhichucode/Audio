@@ -29,4 +29,15 @@ https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classificat
 (Dog vs. Cat in folders)[https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/image_classification_part1.ipynb#scrollTo=H4XHh2xSfgie]
 
 
+(AudioProcessingInPython.ipynb)[https://colab.research.google.com/github/Tyler-Hilbert/AudioProcessingInPythonWorkshop/blob/master/AudioProcessingInPython.ipynb]
 
+(ESC50: Environmental Sound Classification.ipynb)[https://colab.research.google.com/github/fastaudio/fastaudio/blob/master/docs/ESC50:%20Environmental%20Sound%20Classification.ipynb#scrollTo=S8EQyDOdoUwS]
+
+## maybe I can learn pytorch all the same.
+(audio_classifier_tutorial.ipynb pytorch)[https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/downloads/audio_classifier_tutorial.ipynb]
+
+(ml_audio_classifier_example_for_pico.ipynb)[https://colab.research.google.com/github/ArmDeveloperEcosystem/ml-audio-classifier-example-for-pico/blob/main/ml_audio_classifier_example_for_pico.ipynb#scrollTo=Ojuc2yoIrA8G]
+
+
+# Urban Sound anylize
+https://colab.research.google.com/github/jsalbert/sound_classification_ml_production/blob/main/notebooks/UrbanSound8k_data_exploration.ipynb
