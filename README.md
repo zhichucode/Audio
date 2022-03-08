@@ -18,3 +18,11 @@ https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classificat
 ## [Example Programs](https://python-sounddevice.readthedocs.io/en/latest/examples.html#real-time-text-mode-spectrogram)
 
 ## [Notes on Music Information Retrieval(BLOG)](https://musicinformationretrieval.com/index.html)
+
+## [dataset search in google](https://datasetsearch.research.google.com/search?query=industry%20audio&src=0)
+
+## [MIMII Dataset: Sound Dataset for Malfunctioning Industrial Machine Investigation and Inspection](MIMII Dataset: Sound Dataset for Malfunctioning Industrial Machine Investigation and Inspection)
+
+## [Audio Data Analysis Using Deep Learning with Python (Part 1)](https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html)
+
+
