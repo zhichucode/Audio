@@ -41,3 +41,5 @@ https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classificat
 
 # Urban Sound anylize
 https://colab.research.google.com/github/jsalbert/sound_classification_ml_production/blob/main/notebooks/UrbanSound8k_data_exploration.ipynb
+
+https://colab.research.google.com/github/kaneelgit/msi_voxceleb/blob/main/Audio_classification.ipynb#scrollTo=XceK41nTT4Pi
