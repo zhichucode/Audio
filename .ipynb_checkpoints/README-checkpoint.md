@@ -43,3 +43,18 @@ https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classificat
 https://colab.research.google.com/github/jsalbert/sound_classification_ml_production/blob/main/notebooks/UrbanSound8k_data_exploration.ipynb
 
 https://colab.research.google.com/github/kaneelgit/msi_voxceleb/blob/main/Audio_classification.ipynb#scrollTo=XceK41nTT4Pi
+
+## 2021.3.10
+Today I finally find the answer, just search the MIMII in github, then I get the open source code for MIMII. 
+Open Source is Great!!
+https://github.com/aws-samples/sound-anomaly-detection-for-manufacturing
+
+Today I learned a import skill -- just search.
+Every problem can be solved by searching for a probility of 99%.
+Where can we search for the answer? The way to search is important.
+1. Google
+2. Github
+3. Google Scholar
+4. more...
+
+Before solving a problem, try my best to search for it, which can save a lot of time.
