@@ -35,7 +35,7 @@ https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classificat
  maybe I can learn pytorch all the same.
 (audio_classifier_tutorial.ipynb pytorch)[https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/downloads/audio_classifier_tutorial.ipynb]
 
-(ml_audio_classifier_example_for_pico.ipynb)[https://colab.research.google.com/github/ArmDeveloperEcosystem/ml-audio-classifier-example-for-pico/blob/main/ml_audio_classifier_example_for_pico.ipynb#scrollTo=Ojuc2yoIrA8G]
+[ml_audio_classifier_example_for_pico.ipynb](https://colab.research.google.com/github/ArmDeveloperEcosystem/ml-audio-classifier-example-for-pico/blob/main/ml_audio_classifier_example_for_pico.ipynb#scrollTo=Ojuc2yoIrA8G)
 
 
 ### Urban Sound anylize
